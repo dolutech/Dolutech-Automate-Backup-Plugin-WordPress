@@ -22,9 +22,9 @@ O **Dolutech Automate Backup** é um plugin de backup completo para WordPress, o
 
 ## Instalação
 
-1. **Faça o download** do repositório ou clone-o para o diretório `wp-content/plugins/`.
+1. **Faça o download** do repositório e faça o upload para o diretório `wp-content/plugins/`.
     ```bash
-    git clone https://github.com/seu-usuario/dolutech-automate-backup.git
+    https://github.com/dolutech/Dolutech-Automate-Backup-Plugin-WordPress/blob/main/plugin-zip/Dolutech%20Automate%20Backup.zip
     ```
 2. No painel do WordPress, vá até **Plugins > Plugins Instalados** e ative o **Dolutech Automate Backup**.
 3. Acesse **Dolutech Backup** no menu do painel para configurar e iniciar seus backups.
@@ -76,17 +76,6 @@ O **Dolutech Automate Backup** é um plugin de backup completo para WordPress, o
 ### Como configuro o agendamento automático de backups?
 - Acesse a seção **Configurações de Backup Automático** e selecione a frequência e o horário desejado.
 
-## Capturas de Tela
-
-1. **Página de Configuração do Plugin**
-   ![Página de Configuração](screenshot-1.png)
-
-2. **Lista de Backups Disponíveis**
-   ![Lista de Backups](screenshot-2.png)
-
-3. **Configuração de Backup Automático**
-   ![Configuração de Backup Automático](screenshot-3.png)
-
 ## Contribuição
 
 Contribuições são bem-vindas! Para contribuir com o desenvolvimento:
@@ -95,9 +84,6 @@ Contribuições são bem-vindas! Para contribuir com o desenvolvimento:
 2. Crie um novo branch para sua funcionalidade ou correção (`git checkout -b feature/nome-da-feature`).
 3. Envie suas modificações com um pull request.
 
-### Issues
-
-Sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/dolutech-automate-backup/issues) para reportar bugs, sugerir melhorias ou discutir novas funcionalidades.
 
 ## Changelog
 
